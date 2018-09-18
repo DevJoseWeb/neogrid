@@ -1,5 +1,7 @@
 # NEOGRID
 
+[![Build Status](https://travis-ci.org/DevJoseWeb/SIMPLUS.svg?branch=master)](https://github.com/DevJoseWeb/neogrid/blob/master/neogrid.png)
+
 Boa tarde José,
 Conforme informado, segue, anexa, avaliação solicitada pela liderança técnica. Nesta etapa, os seguintes pontos serão avaliados:
 ü  Simplicidade
